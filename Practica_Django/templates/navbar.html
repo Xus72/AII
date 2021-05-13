@@ -1,0 +1,41 @@
+{% load static %}
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/"><img src="{% static 'vino.svg' %}" class="logo-sm"></a>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/">Inicio</a>
+        </li>
+        {% comment "" %} Rellenar la lista con las urls {% endcomment %}  
+        <li class="nav-item">
+          <a class="nav-link" href="/carga">Carga de BD</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/vinos_pais">Vinos agrupados por país</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/vinos_anyo">Vinos anteriores a un año</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/vinos_maridaje">Buscar vinos por maridaje</a>
+        </li>
+      </ul>
+    </div>
+    
+      <div class="nav-item dropdown">
+        {% if request.user.is_authenticated %}
+        <div class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <img src="" class="">&nbsp;{{request.user}}
+        </div>
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <li><a class="dropdown-item" href="{% url 'logout' %}">Logout</a></li>
+         </ul>
+         {% else %}
+          <a class="btn btn-primary" href="{% url 'ingresar' %}">Iniciar Sesión</a>
+        {% endif %}
+      </div>
+   
+  </div>
+</nav>

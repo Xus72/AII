@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Vinos agrupados por país
+{% endblock %}
+
+{% block content %}
+    <table class="table table-bordered mt-3">
+        <tr>
+            <th>Nombre</th>
+            <th>Año</th>
+            <th>Bodega</th>
+            <th>País</th>
+        </tr>
+    {% for pais, lista_vinos in lista_vinos_pais%}
+    {% for vino in lista_vinos %}
+        <tr>
+            <td>{{vino.nombre}}</td>
+            <td>{{vino.anyo}}</td>
+            <td>{{vino.bodega}}</td>
+            <td>{{pais.nombre}}</td>
+            
+        </tr>
+        {% endfor %}
+    {% endfor %}
+    </table>
+{% endblock %}
+        

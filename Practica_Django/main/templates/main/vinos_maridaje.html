@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Vinos por Maridaje
+{% endblock %}
+
+{% block content %}
+<form name="maridaje" method="post" action=''> {% csrf_token %}
+    <fieldset>
+        <legend>Busqueda de vinos para maridar</legend>
+        <table class="table">
+        {{formulario}}
+        </table>
+        <input type="submit" name="aceptar" class="btn btn-primary mt-3" value="Aceptar"></input>
+    </fieldset>
+</form>
+
+{% if busqueda %}
+    
+    <h3 class="mt-3"> Vinos para Maridar: {{nombre_maridaje}}</h3>
+
+    {% for vino in busqueda %}
+        <dt>{{vino.nombre}}</dt>
+        <dd>{{vino.pais}}</dd>    
+    {% endfor %}
+
+{% endif %}
+
+{% endblock %}a

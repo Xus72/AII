@@ -1,0 +1,331 @@
+1|Quesos tipo gruyère o cheddar
+2|Carnes a la piedra
+3|Conejo a la brasa
+4|Cochinillo asado
+5|Conejo con setas
+6|Aves asadas
+7|Carne de venado
+8|Setas
+9|Quesos curados
+10|Arroces de carne
+11|Sardinas
+12|Rodaballo asado
+13|Secreto ibérico
+14|Legumbres guisadas
+15|Carnes de vacuno a la parrilla
+16|Carpaccio de ternera
+17|Cerdo al horno
+18|Embutidos curados
+19|Asados
+20|Parrilladas
+21|Caza menor
+22|Conejo a las finas hierbas
+23|Quesos semicurados
+24|Foie
+25|Cordero asado
+26|Codornices al horno
+27|Costillas de cordero
+28|Queso manchego curado
+29|Carnes blancas
+30|Guisos de carne
+31|Magret de pato
+32|Lechazo
+33|Pato asado
+34|Carnes rojas
+35|Cordero a la brasa
+36|Caza
+37|Estofados
+38|Platos de pasta
+39|Embutidos
+40|Cordero con finas hierbas
+41|Jamón
+42|Cocidos
+43|Legumbres
+44|Setas silvestres
+45|Tostadas con embutido
+46|Arroces
+47|Conejo
+48|Cocina mediterránea
+49|Ensaladas con carne
+50|Como aperitivo
+51|Ensaladas tibias
+52|Cordero
+53|Carnes a la brasa
+54|Carnes estofadas con setas
+55|Berenjenas rellenas
+56|Liebre
+57|Barbacoas
+58|Pato con frutos rojos
+59|Embutidos ibéricos
+60|Queso manchego
+61|Ternasco asado
+62|Entrecot a la pimienta
+63|Pato a la naranja
+64|Pez espada a la brasa
+65|Carnes con salsas cremosas
+66|Risotto
+67|Verduras a la brasa
+68|Tapas
+69|Pescado al horno
+70|Bacalao
+71|Estofados de caza
+72|Patatas a la riojana
+73|Verduras
+74|Bistec a la pimienta
+75|Quesos viejos
+76|Aves de caza
+77|Pasta con setas
+78|Ragout de ternera
+79|Spezzatino con patate
+80|Stracotto
+81|Ossobuco
+82|Stinco di manzo
+83|Conversación de día
+84|Pescado azul
+85|Arroces trufados
+86|Rabo de toro
+87|Jamón ibérico
+88|Platos de caza menor
+89|Cerdo asado
+90|Solomillo
+91|Todo tipo de carnes
+92|Guisos de legumbres
+93|Perdiz
+94|Solomillo de buey
+95|Estofado de ciervo
+96|Pastel de fresas
+97|Parrilladas de carne
+98|Setas a la plancha
+99|Selvaggina da piuma
+100|Fiorentina
+101|Quaglie
+102|Stufato
+103|Ternera con setas
+104|Pollo con pasas y ciruelas
+105|Filete de buey
+106|Quesos de oveja
+107|Ravioli d'anatra
+108|Terrina di cinghiale
+109|Costata di manzo
+110|Quaglie ripiene
+111|Aves
+112|Cocina asiática
+113|Caza mayor al horno
+114|Pasta
+115|Caza de pluma
+116|Pappardelle al sugo di lepre
+117|Anatra arrosto
+118|Gnocchi al sugo d' anatra
+119|Cerdo
+120|Pollo
+121|Para disfrutar solo
+122|Civet
+123|Carnes al horno
+124|Pescado azul al horno
+125|Pastas con salsa boloñesa
+126|Tostadas con jamón
+127|Aperitivos
+128|Quesos de pasta blanda
+129|Estofado de ternera
+130|Queso de pasta dura
+131|Entrecot de buey
+132|Tagliata di manzo
+133|Pecorino toscano
+134|Arrosticini
+135|Quesos de pasta tierna
+136|Quesos
+137|Platos fuertes
+138|Entrantes
+139|Pez espada especiado
+140|Sopas
+141|Cremas
+142|Pa amb tomàquet
+143|Charcutería
+144|Entrecot
+145|Ahumados
+146|Queso de cabra
+147|Quesos azules
+148|Patés
+149|Filete de ternera
+150|Quesos con hierbas aromáticas
+151|Platos elaborados
+152|Arrosto di vitello
+153|Arrosto di manzo al ginepro
+154|Piatti speziati
+155|Cocidos de legumbres
+156|Hamburguesas
+157|Solo
+158|Pinchos
+159|Gambas
+160|Cabrito
+161|Cacciagione
+162|Brasato
+163|Carnes adobadas
+164|Rosbif
+165|Pizza
+166|Platos especiados
+167|Risotto de setas silvestres
+168|Costolette di maiale
+169|Arista con salsa di prugne
+170|Minestra di farro e salsiccia
+171|Grigliata mista
+172|Chocolate
+173|Patatas con chorizo
+174|Platos al curry
+175|Lentejas con chorizo
+176|Risotto al castelmagno
+177|Arrosto di maiale
+178|Formaggi caprini
+179|Ceviches
+180|Ternera
+181|Carpaccios
+182|Buey
+183|Filete a la pimienta
+184|Chuletón
+185|Bistec con setas
+186|Salchichas
+187|Arroz negro
+188|Paella de pescado
+189|Postres de chocolate
+190|Berenjena con parmesano
+191|Verduras asadas
+192|Guisos
+193|Ensaladas
+194|Jabalí
+195|Quesos curados intensos
+196|Carpaccio de ceps
+197|Codorniz
+198|Callos
+199|Carnes ahumadas
+200|Pollo asado
+201|Canelones
+202|Ciervo
+203|Platos trufados
+204|Atún rojo
+205|Pato
+206|Costillas de cerdo
+207|Chuletas
+208|Huevos
+209|Con un buen libro
+210|Lacón
+211|Tarta de verduras
+212|Tortilla de patatas
+213|Atún
+214|Carnes frías
+215|Paté de caza
+216|Pollo in salsa
+217|Melanzane alla parmigiana
+218|Pappardelle al ragù di cinghiale
+219|Bistecca di manzo
+220|Pescado blanco
+221|Carnes asadas
+222|Arrosti di carne
+223|Agnello al mirto
+224|Filetto al tartufo
+225|Piccione
+226|Fagiano arrosto
+227|Brasato al barolo
+228|Filetto con i fichi
+229|Pasta con trufa y parmesano
+230|Pescado frito
+231|Atún a la parrilla
+232|Carnes suaves
+233|Entremeses
+234|Quesos frescos
+235|Fideuá
+236|Patatas estofadas
+237|Confit de pato
+238|Pescado a la brasa
+239|Pescados
+240|Pavo
+241|Tortillas
+242|Sopas de carne
+243|Sanjacobo
+244|Cerdo ibérico
+245|Quesos cremosos de cabra
+246|Cocina tradicional
+247|Chocolate negro
+248|Carnes con salsas de frutillos rojos
+249|Arroces caldosos
+250|Paella mixta
+251|Bouillabaisse
+252|Carne cruda al coltello
+253|Queso roquefort
+254|Pichón asado
+255|Quesos tipo brie o camembert
+256|Quesos tipo gouda
+257|Costillas de cabrito rebozadas
+258|Embutidos ahumados
+259|Cosciotto d'agnello alle erbe
+260|Guisos de caza mayor
+261|Quesos idiazabal
+262|Todo tipo de pescados
+263|Quesos grasos
+264|Cocina italiana
+265|Pescados grasos
+266|Pescado en salsa
+267|Arrosto d'agnello
+268|Cinghiale al ginepro
+269|Cervo con salsa di ribes
+270|Cecina
+271|Maialino al forno
+272|Pecorino
+273|Quesos suaves
+274|Ravioli di magro al burro
+275|Capretto alle olive
+276|Pecorino di pienza
+277|Arroces de verduras
+278|Filetto con ratatouille
+279|Empanadas
+280|Faisán relleno
+281|Pollo in terracotta
+282|Albóndigas con sepia
+283|Tartufo
+284|Pasta all'uovo
+285|Cocina japonesa
+286|Dorada a la sal
+287|Rape
+288|Tortellini al ragù
+289|Ragù napoletano
+290|Patés suaves
+291|Arista di maiale
+292|Capretto
+293|Lepre
+294|Frituras
+295|Carni rosse alla griglia
+296|Chocolate negro amargo
+297|Platos consistentes
+298|Frutos secos
+299|Pimientos asados
+300|Faisán
+301|Carne di manzo alla brace
+302|Panzerotti
+303|Filetto di tonno in crosta
+304|Rollè di pollo
+305|Quesos tipo parmesano o grana padano
+306|Platos de cuchara
+307|Capón
+308|Pularda
+309|Croquetas de queso
+310|Conversación de tarde
+311|noche
+312|Platos con salsas cremosas
+313|Postres
+314|Cenas informales
+315|Marisco
+316|Moluscos
+317|Platos ligeros
+318|Spezzatino al ginepro
+319|Ensaladas de pasta
+320|Agnolotti al brasato
+321|Manzo senape e prugne
+322|Risotto coi mirtilli
+323|A cualquier hora del día
+324|Parmigiano reggiano
+325|Pasta fresca con ragù
+326|Cotechino e lenticchie
+327|Carni bianche
+328|Muy versátil
+329|Parmesano
+330|Lasaña
+331|Calçots con romesco

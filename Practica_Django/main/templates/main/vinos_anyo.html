@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Vinos anteriores a un año
+{% endblock %}
+
+{% block content %}
+<form id="formulario" method="post" action=''> {% csrf_token %}
+    <fieldset>
+        <legend>Vinos anteriores a un año</legend>
+        <table class="table">
+            {{formulario}}
+            </table>
+            <input type="submit" name="aceptar" class="btn btn-primary mt-3" value="Aceptar"></input>
+            <label type="text" name="busqueda1" id="busqueda1"></label>
+        </table>
+    </fieldset>
+</form>
+
+{% if busqueda %}
+    <h3 class="mt-3">Vinos anteriores al año: {{anyo}}</h3>
+    <table class="table table-bordered mt-3">
+        <tr>
+            <th>Nombre</th>
+            <th>Año</th>
+            <th>Bodega</th>
+        </tr>
+        {% for vino in busqueda %}
+            <tr>
+                <td>{{vino.nombre}}</td>
+                <td>{{vino.anyo}}</td>
+                <td>{{vino.bodega}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endif %} 
+
+
+{% endblock %}

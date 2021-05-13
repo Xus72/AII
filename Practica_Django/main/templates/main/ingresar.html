@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %} 
+	Identifiquese para Poblar la Base de Datos
+{% endblock %}   
+
+{% block content %} 
+    	<form id="formulario" method="post" action=''>{% csrf_token %}
+    		<table>{{formulario}}</table>
+			<input class="btn btn-primary mt-3" type='submit' value='Poblar BD'>	
+    	</form>
+{% endblock %}
